@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://periflow.com/sitemap.xml
